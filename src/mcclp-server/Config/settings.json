@@ -1,0 +1,26 @@
+{
+    "systemUI":{
+        
+    },
+    "serverConfig":{
+        "servermode":"production",
+        "Name":"marz call center launchpad",
+        "compsnynsme":"Marz Technologies",
+        "version":"1.0.0",
+        "port":"1940",
+        "TokenSecret":"PUT KEY HERE"
+    },
+    "dbConfig":{
+        "dbType":"mongoDB",
+        "dbConnector":"PUT MONGOOSE CONNECTION STRING HERE"
+        
+    },
+
+    "mailserverconfig":{
+        "mailHost":"",
+        "mailPort":"",
+        "mailUser":"",
+        "mailPassword":""
+    }
+
+}
